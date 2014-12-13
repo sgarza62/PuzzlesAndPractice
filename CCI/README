@@ -1,6 +1,1 @@
-All programs in this folder are from the book Cracking the Code Interview 5th edition. The programs may be written in any language. The program names should be descriptive, include the page number that they correspond to, and can be postfixed by an underscore and version description. For example:
-
-- clockangles_52.cc
-- clockangles_52_python.py
-- clockangles_52_nomod.cc
-
+All programs in this folder are from the book Cracking the Code Interview 5th edition.
